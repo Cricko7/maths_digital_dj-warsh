@@ -58,19 +58,20 @@ _____________
 4. Переходим по пути с проектом. Мой пример:
 
 ```
-cd C:\...\math_digital_D-W\code
+cd C:\...\maths_digital_dj-warsh\code
 ```
 
-5. Активируем подготовленное мною виртуальное окружение:
+5. Создаём и активируем виртуальное окружение:
 
 ```
+python -m venv venv
 .\venv\Scripts\activate
 ```
 
 - Итог:
 
 ```
-(venv) C:\...\math_digital_D-W\code
+(venv) C:\...\maths_digital_dj-warsh\code
 ```
 
 6. Устанавливаем зависимости по Python-языку:
