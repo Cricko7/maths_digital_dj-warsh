@@ -97,7 +97,7 @@ _______
 #### Мой вариант ---> 16 (все алгоритмы !!!)
 
 ## Алгоритм Дейкстры:
-<video src="material/gifka1.mp4" width="640" height="480" controls></video>
+![demo](material/gifka1.mp4)
 
 ## Алгоритм Уоршелла:
 ![demo](material/gifka2.mp4)
