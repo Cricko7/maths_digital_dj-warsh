@@ -97,7 +97,7 @@ _______
 #### Мой вариант ---> 16 (все алгоритмы !!!)
 
 ## Алгоритм Дейкстры:
-![demo](material/gifka1.mov)
+![demo](material/gifka1.mp4)
 
 ## Алгоритм Уоршелла:
 ![demo](material/gifka2.mp4)
