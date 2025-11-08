@@ -134,5 +134,14 @@ _________
 ## Алгоритм Дейкстры:
 ![demo](material/gifka11.gif)
 
+![wwwaayyysss](material/ways.png)
+
+![risun](material/demonway.png)
+
 ## Алгоритм Уоршелла:
+
 ![demo](material/gifka2.gif)
+
+![zam](material/tranzZAM.png)
+
+![lines](material/warshpc.png)
