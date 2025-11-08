@@ -104,4 +104,4 @@ _______
 ![demo](material/gifka11.gif)
 
 ## Алгоритм Уоршелла:
-![demo](material/gifka22.gif)
+![demo](material/gifka2.gif)
